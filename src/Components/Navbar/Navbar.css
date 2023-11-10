@@ -1,0 +1,40 @@
+nav {
+  background-color: #232f3e;
+  padding: 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: aliceblue;
+}
+
+.searchIcon {
+  z-index: 1;
+  margin-left: -40px;
+  color: black;
+  margin-bottom: -7px;
+}
+.shopping-cart {
+  display: flex;
+  align-items: start;
+}
+.count {
+  background-color: aliceblue;
+  color: black;
+  border-radius: 50%;
+  /* padding:3px; */
+  /* height: 10px; */
+  /* width: 5px; */
+  padding: 0 5px;
+  margin: -5px -3px;
+}
+
+/* header-bottom */
+
+.header-bottom{
+height: 30px;
+background-color: #123456;
+color: white;
+display: flex;
+align-items: center;
+gap: 30px;
+}
